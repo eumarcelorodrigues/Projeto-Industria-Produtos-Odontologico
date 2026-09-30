@@ -87,4 +87,4 @@ Altere o caminho para a localização do seu arquivo de dados local.
 
 Desenvolvido por Marcelo Rodrigues.
 
-Conecte-se comigo no LinkedIn!
+Conecte-se comigo no LinkedIn! https://www.linkedin.com/in/marcelordasilva/
